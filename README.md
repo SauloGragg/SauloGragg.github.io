@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SauloGragg/SauloGragg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Githup allows users to create their own websites. 
+This site doesn't have much but that is the neat thing about Github: I can add whatever I want. (Within reason I'm sure)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+It uses this format which is just as simple as typing; because it is!
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
